@@ -1,0 +1,1 @@
+Creating a simple file, since git cannot track an empty directory.
