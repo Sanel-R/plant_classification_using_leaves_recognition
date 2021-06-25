@@ -4,8 +4,6 @@ Simple plant classification model
 
 Author: Sanele Rudolph Mkhize
 
-This is mini-project for image processing University of KwaZulu-Natal. The source code used for this leaf classification have been acknowledged, I included the research paper for this mini-project.
+This is mini-project for image processing plant classification using leaves University of KwaZulu-Natal. The source code used for this leaf classification have been acknowledged.The source code was adjusted accordingly to be used on a dataset obtained from leafsnap.  
 
-The source code was adjusted accordingly to be used on a dataset obtained from leafsnap.  
-
-NB: Please ensure before running the source code you have installed appropiate packages. Personal email address is in the paper.
+NB: Please ensure before running the source code you install the packages.
